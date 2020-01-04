@@ -151,7 +151,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="课堂操练.cpp" />
+    <ClCompile Include="dm01_类的封装.cpp" />
+    <ClCompile Include="dm_点和圆.cpp" />
+    <ClCompile Include="MainClass.cpp" />
+    <ClCompile Include="MyCube.cpp" />
+    <ClCompile Include="MyTeacher.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MyTeacher.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
